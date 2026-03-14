@@ -1,2 +1,16 @@
-# java-test-0003-final-12769-akshay
-Final Project Assignment - This repository contains the complete final project code and documentation.
+public class Exelynt{
+public static void main(String[] args){
+int rows =6;
+
+for(int i=1;i<=rows;i++){
+for(int j=1;j<=1;j++){
+if((i+j)%2==0){
+System.out.print("1");
+}else{
+System.out.print("0");
+}
+}
+System.out.println("");
+}
+}
+}
